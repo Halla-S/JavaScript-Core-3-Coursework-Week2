@@ -1,0 +1,11 @@
+button {
+  background-color: rosybrown;
+  border-radius: 8px;
+  border-style: none;
+  width: 100px;
+  font-size: medium;
+  color: rgb(112, 33, 33);
+}
+img {
+  width: 30%;
+}
